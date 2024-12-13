@@ -1,2 +1,5 @@
-# wuyanzu
-个人随意编写希望可以指正
+public class wuyanzu{
+  public static void main(String[] args){
+      System.out.println("我来了");
+  }
+}
